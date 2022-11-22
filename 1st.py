@@ -11,3 +11,10 @@ print(type(y))
 print(type(z))
 print(type(a))
 print(type(b))
+
+c=bytes(x)
+print(type(c))
+z=4j
+print(type(z))
+s=str("RamLal")
+print(type(s))
