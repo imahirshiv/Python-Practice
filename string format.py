@@ -4,3 +4,5 @@ bat=2
 mobile=3
 total=6
 print(x.format(ball,bat,mobile,total))
+txt="This is the lord Shiv\nYou might know him"
+print(txt)
